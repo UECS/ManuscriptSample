@@ -1,5 +1,6 @@
 # ManuscriptSample
 UECSニュースレター原稿サンプル
+
 これはUECS研究会ニュースレター原稿のサンプルデータです。
 Word形式でお願いします。
 
